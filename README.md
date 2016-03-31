@@ -5,9 +5,8 @@
 
 # gulp-helpers
 
-A set of tasks and helpers for gulp 3.x 
+Conjunto de tasks e helpers para o gulp usados no PRODEST
 
-When gulp 4 is released, gulp-helpers will be rewritten to support [custom registries](https://github.com/phated/undertaker#custom-registries).
 
 # Don't repeat yourself (DRY) gulpfiles
 
